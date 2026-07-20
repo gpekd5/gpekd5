@@ -7,8 +7,8 @@ Expanding my experience from equipment software to Java backend development.
 
 ### 💼 Career
 - Equipment Software Engineer `2021.05 ~ 2024.10`
-  - Mechanical design → C# WinForms-based equipment software development
-
+  - Transitioned from mechanical design to C# WinForms-based equipment software development `2023.10 ~ 2024.10`
+  - 
 - SMD Production Engineer `2025.05 ~ 2025.12`
   - Defined MES monitoring and traceability requirements for SPI, AOI, and ICT inspection data
 
