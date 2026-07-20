@@ -1,7 +1,27 @@
-# 🤖  안녕하세요. 저는 김홍기 입니다. 🐯
+## Hi, I'm Honggi Kim 👋
 
+Expanding my experience from equipment software to Java backend development.
+
+### 🎓 Training
+- Java & Spring Backend Bootcamp `2026.03 ~ 2026.08`
+
+### 💼 Career
+- Equipment Software Engineer `2021.05 ~ 2024.10`
+  - Mechanical design → C# WinForms-based equipment software development
+
+- SMD Production Engineer `2025.05 ~ 2025.12`
+  - Defined MES monitoring and traceability requirements for SPI, AOI, and ICT inspection data
+
+### 🚧 Projects
+- Coming soon...
+
+### 🛠 Tech Stack
+- Java, Spring Boot, JPA, QueryDSL
+- MySQL, Redis, AWS, Docker
+- C#, WinForms
+
+### 🔗 Links
 ![Visitor Count](https://komarev.com/ghpvc/?username=gpekd5-commits&color=blue)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@gpekd5/posts)
 
-### Get in Touch
 
-[![Tech Blog Badge](http://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&link=https://zzsza.github.io/)](https://velog.io/@gpekd5/posts) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%ED%99%8D%EA%B8%B0-%EA%B9%80-b38a793b7/)](https://www.linkedin.com/in/%ED%99%8D%EA%B8%B0-%EA%B9%80-b38a793b7/)
