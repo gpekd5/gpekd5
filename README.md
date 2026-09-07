@@ -49,18 +49,21 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 
 ---
 
-## 📊 GitHub
-
-<img src="https://github-stats-extended.vercel.app/api?username=gpekd5&show_icons=true&theme=transparent" />
-
----
-
-## 📈 Activity
+## 📈 GitHub Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gpekd5&theme=github-dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gpekd5&theme=github-light&hide_border=true">
-  <img alt="Honggi Kim GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gpekd5&theme=github-light&hide_border=true">
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpekd5&theme=github_dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpekd5&theme=github"
+    media="(prefers-color-scheme: light)"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gpekd5&theme=github"
+    alt="GitHub Profile Summary"
+  />
 </picture>
 
 ---
