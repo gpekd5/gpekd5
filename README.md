@@ -8,14 +8,12 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 
 ## 🚀 Projects
 
-### 🍚 BobFull
-**제주 지역 합석 예약 플랫폼**  
+### 🍚 BobFull | **제주 지역 합석 예약 플랫폼**  
 부팀장 | 회차 및 테이블 검색, AWS 인프라 및 모니터링 | 🏆 최종 프로젝트 우수상
 
 [GitHub](https://github.com/bobfull-project/bobfull-backend) | [발표자료](https://drive.google.com/file/d/1erg_wEFZdVDT4VQ8qKs5CZ_1iz2MIUQx/view?usp=sharing) | [리팩토링&고도화](https://github.com/gpekd5/bobfull-backend)
 
-### 🛒 5pringUsedMarket
-**중고거래 플랫폼**  
+### 🛒 5pringUsedMarket | **중고거래 플랫폼**  
 팀장 | 상품 검색, 관심상품, 캐싱 및 성능 개선 | 🏆 소통상
 
 [GitHub](https://github.com/gpekd5/5pringUsedMarket) | [발표자료](https://drive.google.com/file/d/1aEQQn_65twJQymx1NR17gY_kh2AQlrz5/view?usp=sharing)
@@ -24,27 +22,11 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 
 ## 🛠 Tech Stack
 
-### Backend
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-4479A1?style=flat-square)
-
-REST API 개발, 조건 검색, 성능 개선 경험
-
-### Database / Infra
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
-캐싱, 쿼리 개선, AWS 배포 및 모니터링 경험
-
-### Equipment Software
-![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=flat-square)
-
-모션, 비전, 레이저, 통신 장치 연동 및 장비 제어 SW 개발 경력
+| Category | Tech | Experience |
+| --- | --- | --- |
+| **Backend** | ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white) ![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square) ![QueryDSL](https://img.shields.io/badge/QueryDSL-4479A1?style=flat-square) | REST API 개발, 조건 검색, 성능 개선 경험 |
+| **Database / Infra** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) | 캐싱, 쿼리 개선, AWS 배포 및 모니터링 경험 |
+| **Equipment Software** | ![C%23](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white) ![WinForms](https://img.shields.io/badge/WinForms-5C2D91?style=flat-square) | 모션, 비전, 레이저, 통신 장치 연동 및 장비 제어 SW 개발 경력 |
 
 ---
 
@@ -73,7 +55,25 @@ REST API 개발, 조건 검색, 성능 개선 경험
 
 ---
 
+## 📈 Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gpekd5&theme=github-dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=gpekd5&theme=github-light&hide_border=true">
+  <img alt="Honggi Kim GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=gpekd5&theme=github-light&hide_border=true">
+</picture>
+
+---
+
+## 📝 Recent Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 ## 🔗 Links
 
-![Visitor Count](https://komarev.com/ghpvc/?username=gpekd5&color=blue)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=velog&logoColor=white)](https://velog.io/@gpekd5/posts)
+![Visitor Count](https://komarev.com/ghpvc/?username=gpekd5&color=blue)
+
