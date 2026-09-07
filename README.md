@@ -68,6 +68,9 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 ## 📝 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[리팩토링 #3] 기능 중심 패키지 구조를 어떻게 수정할까](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-3-%EA%B8%B0%EB%8A%A5-%EC%A4%91%EC%8B%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%88%98%EC%A0%95%ED%95%A0%EA%B9%8C)
+- [[리팩토링 #2] BobFull 패키지 구조 분석](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-2-BobFull-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0-%EB%B6%84%EC%84%9D)
+- [[리팩토링 #1] Spring 패키지 구조 종류](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A6%AD-1-Spring-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0-%EB%82%98%EB%88%84%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
