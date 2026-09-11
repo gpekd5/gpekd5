@@ -52,9 +52,9 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 ## 📝 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[리팩토링 #3] 기능 중심 패키지 구조를 어떻게 수정할까](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-3-%EA%B8%B0%EB%8A%A5-%EC%A4%91%EC%8B%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%88%98%EC%A0%95%ED%95%A0%EA%B9%8C)
-- [[리팩토링 #2] BobFull 패키지 구조 분석](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-2-BobFull-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0-%EB%B6%84%EC%84%9D)
-- [[리팩토링 #1] Spring 패키지 구조 종류](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A6%AD-1-Spring-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0-%EB%82%98%EB%88%84%EA%B8%B0)
+- [[BobFull 리팩토링 #5] 리팩토링 전에 AI 작업 방식 정리](https://velog.io/@gpekd5/BobFull-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-5-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%A0%84%EC%97%90-AI-%EC%9E%91%EC%97%85-%EB%B0%A9%EC%8B%9D-%EC%A0%95%EB%A6%AC)
+- [[BobFull 리팩토링 #4] 코드보다 먼저 docs부터 정리](https://velog.io/@gpekd5/BobFull-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-4-%EC%BD%94%EB%93%9C%EB%B3%B4%EB%8B%A4-%EB%A8%BC%EC%A0%80-docs%EB%B6%80%ED%84%B0-%EC%A0%95%EB%A6%AC)
+- [[BobFull 리팩토링 #3] 패키지 구조를 어떤 기준으로 통일할까?](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-3-%EA%B8%B0%EB%8A%A5-%EC%A4%91%EC%8B%AC-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%88%98%EC%A0%95%ED%95%A0%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ---
