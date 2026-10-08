@@ -52,9 +52,9 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 ## 📝 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [[Spring] 어노테이션 구조 정리: 메타 어노테이션부터 Bean 등록, 합성 어노테이션까지](https://velog.io/@gpekd5/Spring-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-%EA%B5%AC%EC%A1%B0-%EC%A0%95%EB%A6%AC-%EB%A9%94%ED%83%80-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EB%B6%80%ED%84%B0-Bean-%EB%93%B1%EB%A1%9D-%ED%95%A9%EC%84%B1-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B9%8C%EC%A7%80)
 - [[리팩토링 #8] 1차 리팩토링 마무리와 남은 설계 부채](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-8-1%EC%B0%A8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EB%A7%88%EB%AC%B4%EB%A6%AC%EC%99%80-%EB%82%A8%EC%9D%80-%EC%84%A4%EA%B3%84-%EB%B6%80%EC%B1%84)
 - [[리팩토링 #7] 프로젝트 전체 코드 작성 기준 통일하기](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-7-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EA%B8%B0%EC%A4%80-%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0)
-- [[리팩토링 #6] 기능 소유권 기준으로 패키지 구조 다시 나누기](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-6-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EC%9C%A0%EA%B6%8C-%EA%B8%B0%EC%A4%80%EC%9C%BC%EB%A1%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B5%AC%EC%A1%B0-%EB%8B%A4%EC%8B%9C-%EB%82%98%EB%88%84%EA%B8%B0)
 <!-- BLOG-POST-LIST:END -->
 
 ---
