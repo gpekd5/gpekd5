@@ -52,9 +52,9 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 ## 📝 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[Spring] 어노테이션 구조 정리: 메타 어노테이션부터 Bean 등록, 합성 어노테이션까지](https://velog.io/@gpekd5/Spring-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98-%EA%B5%AC%EC%A1%B0-%EC%A0%95%EB%A6%AC-%EB%A9%94%ED%83%80-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EB%B6%80%ED%84%B0-Bean-%EB%93%B1%EB%A1%9D-%ED%95%A9%EC%84%B1-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%EA%B9%8C%EC%A7%80)
-- [[리팩토링 #8] 1차 리팩토링 마무리와 남은 설계 부채](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-8-1%EC%B0%A8-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EB%A7%88%EB%AC%B4%EB%A6%AC%EC%99%80-%EB%82%A8%EC%9D%80-%EC%84%A4%EA%B3%84-%EB%B6%80%EC%B1%84)
-- [[리팩토링 #7] 프로젝트 전체 코드 작성 기준 통일하기](https://velog.io/@gpekd5/%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-7-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%84%EC%B2%B4-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1-%EA%B8%B0%EC%A4%80-%ED%86%B5%EC%9D%BC%ED%95%98%EA%B8%B0)
+- [[후속 작업 #3] AI Moderation Observability 구축 - LLM 호출부터 Token, Retry, 비용까지](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-3-AI-Moderation-Observability-%EA%B5%AC%EC%B6%95-LLM-%ED%98%B8%EC%B6%9C%EB%B6%80%ED%84%B0-Token-Retry-%EB%B9%84%EC%9A%A9%EA%B9%8C%EC%A7%80)
+- [[후속 작업 #2] AI Moderation 평가 테스트를 현재 정책에 맞게 수정](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-2-AI-Moderation-%ED%8F%89%EA%B0%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%98%84%EC%9E%AC-%EC%A0%95%EC%B1%85%EC%97%90-%EB%A7%9E%EA%B2%8C-%EC%88%98%EC%A0%95)
+- [[후속 작업 #1] 리팩토링 이후, 기존 성능 개선 근거와 Kafka 장애 경계 검증](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-1-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%9D%B4%ED%9B%84-%EA%B8%B0%EC%A1%B4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B7%BC%EA%B1%B0%EC%99%80-Kafka-%EC%9E%A5%EC%95%A0-%EA%B2%BD%EA%B3%84-%EA%B2%80%EC%A6%9D)
 <!-- BLOG-POST-LIST:END -->
 
 ---
