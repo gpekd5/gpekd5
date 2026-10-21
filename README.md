@@ -52,9 +52,9 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 ## 📝 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[후속 작업 #3] AI Moderation Observability 구축 - LLM 호출부터 Token, Retry, 비용까지](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-3-AI-Moderation-Observability-%EA%B5%AC%EC%B6%95-LLM-%ED%98%B8%EC%B6%9C%EB%B6%80%ED%84%B0-Token-Retry-%EB%B9%84%EC%9A%A9%EA%B9%8C%EC%A7%80)
-- [[후속 작업 #2] AI Moderation 평가 테스트를 현재 정책에 맞게 수정](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-2-AI-Moderation-%ED%8F%89%EA%B0%80-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%ED%98%84%EC%9E%AC-%EC%A0%95%EC%B1%85%EC%97%90-%EB%A7%9E%EA%B2%8C-%EC%88%98%EC%A0%95)
-- [[후속 작업 #1] 리팩토링 이후, 기존 성능 개선 근거와 Kafka 장애 경계 검증](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-1-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EC%9D%B4%ED%9B%84-%EA%B8%B0%EC%A1%B4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B7%BC%EA%B1%B0%EC%99%80-Kafka-%EC%9E%A5%EC%95%A0-%EA%B2%BD%EA%B3%84-%EA%B2%80%EC%A6%9D)
+- [[후속 작업 #6] AI Moderation 효율화 #3 - Prompt 개선 시도와 미채택 결정](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-6-AI-Moderation-%ED%9A%A8%EC%9C%A8%ED%99%94-3-Prompt-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%97%98%EA%B3%BC-%ED%92%88%EC%A7%88-Trade-off-%EA%B2%80%EC%A6%9D)
+- [[후속 작업 #5] AI Moderation 효율화 #2 - Micro-batching 정확도와 판정 안정성 검증](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-5-AI-Moderation-%ED%9A%A8%EC%9C%A8%ED%99%94-2-Micro-batching-%EC%A0%95%ED%99%95%EB%8F%84%EC%99%80-%ED%8C%90%EC%A0%95-%EC%95%88%EC%A0%95%EC%84%B1-%EA%B2%80%EC%A6%9D)
+- [[후속 작업 #4] AI Moderation 효율화 #1 - Micro-batching 선택과 Token 비용 검증](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-4-AI-Moderation-%ED%9A%A8%EC%9C%A8%ED%99%94-1-Micro-batching-%EC%84%A0%EC%A0%95%EA%B3%BC-Token-%EB%B9%84%EC%9A%A9-%EB%B9%84%EA%B5%90)
 <!-- BLOG-POST-LIST:END -->
 
 ---
