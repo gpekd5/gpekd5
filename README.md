@@ -52,9 +52,9 @@ API 개발, 성능 개선, AWS 배포와 모니터링까지 직접 구현하고 
 ## 📝 Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [[후속 작업 #6] AI Moderation 효율화 #3 - Prompt 개선 시도와 미채택 결정](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-6-AI-Moderation-%ED%9A%A8%EC%9C%A8%ED%99%94-3-Prompt-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%97%98%EA%B3%BC-%ED%92%88%EC%A7%88-Trade-off-%EA%B2%80%EC%A6%9D)
-- [[후속 작업 #5] AI Moderation 효율화 #2 - Micro-batching 정확도와 판정 안정성 검증](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-5-AI-Moderation-%ED%9A%A8%EC%9C%A8%ED%99%94-2-Micro-batching-%EC%A0%95%ED%99%95%EB%8F%84%EC%99%80-%ED%8C%90%EC%A0%95-%EC%95%88%EC%A0%95%EC%84%B1-%EA%B2%80%EC%A6%9D)
-- [[후속 작업 #4] AI Moderation 효율화 #1 - Micro-batching 선택과 Token 비용 검증](https://velog.io/@gpekd5/%ED%9B%84%EC%86%8D-%EC%9E%91%EC%97%85-4-AI-Moderation-%ED%9A%A8%EC%9C%A8%ED%99%94-1-Micro-batching-%EC%84%A0%EC%A0%95%EA%B3%BC-Token-%EB%B9%84%EC%9A%A9-%EB%B9%84%EA%B5%90)
+- [[컴퓨터 구조 #08] Spring Boot는 어떻게 실행되고 HTTP 요청을 처리할까?](https://velog.io/@gpekd5/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-08-Spring-Boot%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%EB%90%98%EA%B3%A0-HTTP-%EC%9A%94%EC%B2%AD%EC%9D%84-%EC%B2%98%EB%A6%AC%ED%95%A0%EA%B9%8C)
+- [[컴퓨터 구조 #07] 운영체제는 프로세스와 스레드를 어떻게 실행할까?](https://velog.io/@gpekd5/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-07-%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EB%8A%94-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EC%99%80-%EC%8A%A4%EB%A0%88%EB%93%9C%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89%ED%95%A0%EA%B9%8C)
+- [[컴퓨터 구조 #06] Java 소스코드는 어떻게 기계어가 되어 실행될까?](https://velog.io/@gpekd5/%EC%BB%B4%ED%93%A8%ED%84%B0-%EA%B5%AC%EC%A1%B0-06-Java-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B8%B0%EA%B3%84%EC%96%B4%EA%B0%80-%EB%90%98%EC%96%B4-%EC%8B%A4%ED%96%89%EB%90%A0%EA%B9%8C)
 <!-- BLOG-POST-LIST:END -->
 
 ---
